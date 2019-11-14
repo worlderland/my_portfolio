@@ -7,7 +7,7 @@ sans-serif;
 
 $white: #fff;
 $black: #121212;
-$primary: #2f89fc;
+$primary: #17a2b8;
 // $primary: #2f89fc;
 
 // html {
@@ -349,16 +349,16 @@ header {
 		float: left;
 
 		.colorlib-logo {
-			font-size: 20px;
+			font-size: 12px;
 			text-transform: uppercase;
 			color: $white;
 			font-weight: 400;
-			letter-spacing: 5px;
-			padding: 7px;
+			letter-spacing: 3px;
+			padding: 3px;
 			display: block;
 			text-align: center;
 			position: relative;
-			padding-left: 62px;
+			padding-left: 65px;
 
 			.logo-img {
 				width: 50px;
@@ -606,8 +606,8 @@ header {
 			background-size: cover;
 			background-repeat: no-repeat;
 			background-position: center center;
-			height: calc(100vh - 0);
-			min-height: 700px;
+			//height: calc(100vh - 0);
+			//min-height: 700px;
 			position: relative;
 
 			.overlay {
@@ -623,8 +623,8 @@ header {
 
 			.slider-text {
 				color: $white;
-				height: calc(100vh - 117px);
-				min-height: 700px;
+				height: calc(100vh - 32.5vh);
+				//min-height: 700px;
 				position: relative;
 
 				.bold-text {
@@ -649,7 +649,7 @@ header {
 					position: relative;
 
 					@include media-breakpoint-down(md) {
-						font-size: 40px;
+						font-size: 30px;
 					}
 				}
 
@@ -1060,10 +1060,10 @@ textarea.form-control {
 
 .ftco-vh-75 {
 	height: 75vh;
-	min-height: 700px;
+	//min-height: 700px;
 
 	@include media-breakpoint-down(lg) {
-		min-height: 700px;
+		//min-height: 500px;
 		height: inherit;
 		padding-top: 5em;
 		padding-bottom: 5em;
@@ -1170,7 +1170,7 @@ textarea.form-control {
 
 
 .ftco-section {
-	padding: 7em 0;
+	padding: 3em 0;
 }
 
 .ftco-bg-dark {
@@ -1181,7 +1181,7 @@ textarea.form-control {
 .ftco-footer {
 	font-size: 16px;
 	background: $black;
-	padding: 8em 0;
+	padding: 3em 0;
 
 	.ftco-footer-logo {
 		text-transform: uppercase;
@@ -1806,6 +1806,8 @@ textarea.form-control {
 	.image {
 		width: 100%;
 		padding: 10% 7%;
+		border: 1px solid darken($white, 45%);
+		@include border-radius(1%);
 
 		@include media-breakpoint-up(md) {
 			width: 40%;

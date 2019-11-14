@@ -20,7 +20,7 @@ echo $progressBar;
       include 'content/home-page/about-section.html';
       include 'content/home-page/services-section.html';
       include 'content/home-page/portfolio-section.html';
-      include 'content/home-page/counters-section.html';
+      //include 'content/home-page/counters-section.html'; Commented this because I don't need the counters yet.
       //The following include brings in the footer
       include 'template-parts/general/footer.php';
       echo $footer;
