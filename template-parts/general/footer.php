@@ -11,7 +11,7 @@ $footer =
           <ul class="ftco-footer-social list-unstyled">
             <li class="ftco-animate"><a href="https://www.linkedin.com/in/alessandro-coraglia-990100159/" target="blank"><span class="icon-linkedin"></span></a></li>
             <li class="ftco-animate"><a href="https://github.com/worlderland" target="blank"><span class="icon-github"></span></a></li>
-            <li><a href="#"><span class="icon-skype"></span></a></li>
+            <li class="ftco-animate"><a href="#"><span class="icon-skype"></span></a></li>
           </ul>
         </div>
         <div class="ftco-footer-widget">
