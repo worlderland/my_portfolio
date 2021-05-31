@@ -5,20 +5,15 @@ $footer =
 
 <footer class="ftco-footer ftco-bg-dark ftco-section">
   <div class="container">
-    <div class="row mb-5 justify-content-center">
+    <div class="row mb-3 justify-content-center">
       <div class="col-md-5 text-center">
-        <div class="ftco-footer-widget mb-5">
+        <div class="ftco-footer-widget mb-3">
           <ul class="ftco-footer-social list-unstyled">
-            <li class="ftco-animate"><a href="https://www.linkedin.com/in/alessandro-coraglia-990100159/" target="blank"><span class="icon-linkedin"></span></a></li>
-            <li class="ftco-animate"><a href="https://github.com/worlderland" target="blank"><span class="icon-github"></span></a></li>
-            <li class="ftco-animate"><a href="#"><span class="icon-skype"></span></a></li>
-          </ul>
-        </div>
-        <div class="ftco-footer-widget">
-        <!-- <h2 class="mb-3">Scan this code with your smartphone to contact me!</h2>
-          <p>
-          <img src="src/assets/images/contactme-qrcode.png" alt="" class="img-fluid">
-          </p> -->
+							<li><a href="https://www.linkedin.com/in/alessandro-coraglia-990100159/"
+									target="_blank" title="Check out my LinkedIn profile"><span class="icon-linkedin"></span></a></li>
+							<li><a href="https://github.com/worlderland" target="_blank"><span
+										class="icon-github" title="Check out my Github profile"></span></a></li>
+						</ul>
         </div>
       </div>
     </div>

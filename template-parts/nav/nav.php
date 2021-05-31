@@ -15,9 +15,7 @@ $nav =
             <li><a href="./"><span><small>01</small>Home</span></a></li>
             <li><a href="about"><span><small>02</small>Resume</span></a></li>
             <li><a href="portfolio"><span><small>03</small>Portfolio</span></a></li>
-            <li><a href="services"><span><small>04</small>Services</span></a></li>
-            <li><a href="contact"><span><small>05</small>Contact</span></a></li>
-            <!-- <li><a href="blog"><span><small>05</small>Blog</span></a></li> -->
+            <li><a href="contact"><span><small>04</small>Contact</span></a></li>
           </ul>
         </div>
       </div>
