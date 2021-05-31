@@ -25,7 +25,7 @@ $footer =
             document.write(new Date().getFullYear());
           </script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true" style="color: red;"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a> -->
           <!-- Link back to Colorlib can\'t be removed. Template is licensed under CC BY 3.0. -->
-          Copyright &copy; 2019 Alessandro Coraglia
+          Copyright &copy;' . date("Y") . '<br>Alessandro Coraglia - Worlderland.dev
         </p>
       </div>
     </div>

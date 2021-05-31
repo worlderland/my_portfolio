@@ -1,5 +1,5 @@
 <?php
-$pageTitle = 'A.C. | Home';
+$pageTitle = 'Home | Worlderland.dev';
 //The following include brings in doctype, html tag, head and start body tag
 include 'template-parts/general/head-start-body.php';
 echo $docType;
@@ -17,9 +17,6 @@ echo $progressBar;
       echo $header;
       //The following includes bring in the page content
       include 'content/home-page/slider.html';
-      include 'content/home-page/about-section.html';
-      include 'content/home-page/services-section.html';
-      include 'content/home-page/portfolio-section.html';
       //include 'content/home-page/counters-section.html'; Commented this because I don't need the counters yet.
       //The following include brings in the footer
       include 'template-parts/general/footer.php';

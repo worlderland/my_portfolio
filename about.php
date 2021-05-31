@@ -1,5 +1,5 @@
 <?php
-$pageTitle = 'A.C. | About';
+$pageTitle = 'Resume | Worlderland.dev';
 include 'template-parts/general/head-start-body.php';
 echo $docType;
 echo $headStartBody;
