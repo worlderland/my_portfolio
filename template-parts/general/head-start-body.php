@@ -33,6 +33,8 @@ $headStartBody =
   <link rel="stylesheet" href="src/assets/css/flaticon.css">
   <link rel="stylesheet" href="src/assets/css/icomoon.css">
   <link rel="stylesheet" href="src/assets/css/style.css">
+
+  <link rel="shortcut icon" href="src/assets/images/browser.ico" />
 </head>
 
 <!-- End of Head -->
