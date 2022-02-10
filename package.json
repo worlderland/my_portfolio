@@ -24,7 +24,7 @@
   "homepage": "https://github.com/worlderland/my_portfolio#readme",
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "yarn": "^1.19.1"
   }
 }
